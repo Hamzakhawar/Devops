@@ -1,0 +1,3 @@
+Hi this is dev command file
+created by dev branch
+lets commit it 
