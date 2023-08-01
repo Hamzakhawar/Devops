@@ -11,3 +11,8 @@ git add
 git commit
 git remote set-url --add newurl
 git remote set-url --delete oldurl
+
+
+yeh add krna bhool gya tha
+
+aur commands add kro

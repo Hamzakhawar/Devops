@@ -1,0 +1,8 @@
+git init
+git log --oneline
+git status
+git add
+git commit -m
+git remote set-url --add origin 
+git remote set-url --delete origin
+git push origin main
