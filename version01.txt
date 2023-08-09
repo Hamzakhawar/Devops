@@ -2,6 +2,7 @@ This is first feature of the application
 
 
 
+<<<<<<< HEAD
 Feature 1
 
 
@@ -9,3 +10,13 @@ feature 2
 
 
 feature 3
+=======
+his is the bug fix in development branch
+
+
+this is gadbad code
+
+
+
+his feature will gadbad everything from now.
+>>>>>>> parent of e199aea (F1)
