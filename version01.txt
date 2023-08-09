@@ -1,1 +1,12 @@
 This is first feature of the application
+
+
+
+his is the bug fix in development branch
+
+
+this is gadbad code
+
+
+
+his feature will gadbad everything from now.
